@@ -1,7 +1,7 @@
 Hello!👋 Welcome to my home on GitHub for my tutorials and experiments in data science, machine learning, and other related stuff.
 Below is a list of everything I've published so far in this repository.
 
-## [Matplotlib to Plotly chart conversion](https://nbviewer.jupyter.org/github/shaildeliwala/experiments/blob/master/Matplotlib%20to%20Plotly%20Chart%20Conversion.ipynb)
+## [Building a Matplotlib to Plotly chart converter](https://nbviewer.jupyter.org/github/shaildeliwala/experiments/blob/master/Matplotlib%20to%20Plotly%20Chart%20Conversion.ipynb)
 An experiment in converting Matplotlib bar charts and scatter plots created using pandas to Plotly plots.
 
 ## [Airbnb data analysis and predictions](https://nbviewer.jupyter.org/github/shaildeliwala/experiments/blob/master/Airbnb%20data%20analysis%20and%20predictions.ipynb)
