@@ -2,7 +2,7 @@ Hello!👋 Welcome to my home on GitHub for my tutorials and experiments in data
 Below is a list of everything I've published so far in this repository.
 
 ## [🏎️Enhance your data science workflow](https://github.com/shaildeliwala/experiments/blob/master/notebooks/Enhance%20data%20science%C2%A0workflow.ipynb)
-Practical tips and guidance on how to improve your data science workflow. This notebook is a part of my _Turbocharge your Workflow_ series, which is a collection of experiences I have acquired over the years and that has helped me improve my workflow. I hope you find it useful too!
+Practical tips and guidance on how to improve your data science workflow. This notebook accompanies my Medium article in my _Turbocharge your Workflow_ series, which is a collection of experiences I have acquired over the years and that has helped me improve my workflow.
 
 ## [💻Streamlit 101: An in-depth introduction](https://github.com/shaildeliwala/experiments/blob/master/src/streamlit.py)
 [Streamlit](https://www.streamlit.io) is an awesome new tool that allows engineers to quickly build highly interactive web applications around their data, machine learning models, and pretty much anything. This tutorial is a deep dive into Streamlit with Airbnb NYC listings data.
